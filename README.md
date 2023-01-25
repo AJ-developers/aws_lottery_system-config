@@ -1,6 +1,6 @@
 # Awesome Lottery System Config
 
-Configuration file of [Awesome Lottery System](https://www.gmodstore.com/)
+Configuration and language files of [Awesome Lottery System](https://www.gmodstore.com/)
 
 ## How it work ?
 
