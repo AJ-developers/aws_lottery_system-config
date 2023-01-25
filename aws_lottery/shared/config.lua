@@ -1,0 +1,3 @@
+AWSLottery.Config = {
+  
+}
